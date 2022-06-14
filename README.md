@@ -1,2 +1,3 @@
 
-https://github.com/NTS-062022/rsschool-cv/pull/2/conflict?name=README.md&ancestor_oid=a7ac464e6828d55430d4f5e7be3a5f00ae8374ab&base_oid=13b3339681d251ae6ea408a23847a3f3248f94ca&head_oid=588aa29e1f0071b3a10e4c290ee4865d206f2f71
+[# rsschool-cv](https://NTS-062022.github.io/rsschool-cv/cv
+https://NTS-062022.github.io/rsschool-cv/)
