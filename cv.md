@@ -12,10 +12,10 @@
 ## Course
 * RS School
 ## Education
-* Minskiy Innovation University
+* Minsk Innovation University
 ## Sumary
 * 2009 -2011 technologist, Integral
 * 2011-2013 customer service specialist, bank
 * 2014-2022 system administrator, manager, online store.
 ## English 
-* level - A2(learning)
+* level - A2 (learning)
